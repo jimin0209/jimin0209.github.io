@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Kim Jimin"
-  avatar           : "/assets/images/jimin.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/jimin2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Developer, Beginner"
   location         : "Seoul, Korea"
   email            : 
