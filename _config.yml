@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Developer, Beginner"
   location         : "Seoul, Korea"
-  email            :
+  email            : "qq6284@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
