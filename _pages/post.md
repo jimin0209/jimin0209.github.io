@@ -1,6 +1,6 @@
 ---
 permalink: /post/
-title: Post
+title: Posts
 excerpt: "post.md"
 layout: categories
 permalink: /post/
