@@ -31,8 +31,8 @@ layout: default
           <!--
           {% include page__meta.html %}
          -->
-            <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label }} <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>  
-          {% endif %}
+            <p class="page__date"><h6 i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label }} <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>  
+          </h6>{% endif %}
         </header>
       {% endunless %}
 
