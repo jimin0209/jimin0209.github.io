@@ -6,4 +6,3 @@ layout: categories
 permalink: /post/
 tags: [Post]
 ---
-post 페이지
