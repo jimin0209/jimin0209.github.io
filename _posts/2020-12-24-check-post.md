@@ -1,6 +1,6 @@
 ---
 title:  "시간 확인"
-# excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
+excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 
 categories:
   - Post
