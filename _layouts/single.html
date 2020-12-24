@@ -30,9 +30,10 @@ layout: default
           {% if page.date %}
           <!--
           {% include page__meta.html %}
-          -->
+         
             <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }} <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
-          {% include page__date.html %}  
+  -->         {% if post.date %}
+          <p class="page__meta"><i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: "%B %d %Y" }}</p>
           {% endif %}
         </header>
       {% endunless %}
