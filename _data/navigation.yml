@@ -5,7 +5,7 @@ main:
    - title: "About"
      url: /about/
    - title: "Posts"
-     url: /posts/
+     url: /post/
    - title: "Etc"
      url: /etc/
   # - title: "Sitemap"
