@@ -117,7 +117,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/z._.minn"
-
+dark_mode: true
 # Site Footer
 footer:
   links:
