@@ -1,8 +1,7 @@
 ---
-permalink: /post/
+permalink: /posts/
 title: Posts
-excerpt: "post.md"
+excerpt: "posts.md"
 layout: categories
-permalink: /post/
 tags: [Post]
 ---
