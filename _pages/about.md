@@ -14,6 +14,6 @@ layouts_gallery:
     alt: "archive layout example"
 last_modified_at: 2020-10-28T14:51:23-04:00
 ---
-<h3>안녕하세요.</br>
-김지민입니다 :-)</br>
-화이팅🤞💕</h3>
+<h5>안녕하세요.<p>
+김지민입니다 :-)<p>
+화이팅🤞💕</h5>
