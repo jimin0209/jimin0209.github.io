@@ -1,6 +1,6 @@
 ---
 published: true
-layout:         post ## 여러 레이아웃이 있다. "single", "splash" ...
+layout:         single ## 여러 레이아웃이 있다. "single", "splash" ...
 title:          작업 환경 설정 ## 포스트 제목
 category:       React ## 포스트 카테고리
 tags:           ## 포스트 태그
