@@ -26,24 +26,19 @@ import './App.css';
 -   리액트를 불러오는 코드 하단에 있음
 -   이렇게 파일들을 불러오는 것은 웹팩의 로더(loader)라는 기능이 담당함
 
-```
+```javascript
 function APP() {
     return (
         <div className="APP">
-          <header className="App-header">
-            <img src={logo} className="App-logo" alt="logo" />
-            <p>
-              Edit <code>src/APP.js</code> and save to reload.
-            </p>
-            <a
-              className="App-link"
-              href="https://reactjs.org"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learn React
-            </a>
-          </header>
+            <header className="App-header">
+                <img src={logo} className="App-logo" alt="logo" />
+                <p>
+                    Edit <code>src/APP.js</code> and save to reload.
+                </p>
+                <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+                    Learn React
+                </a>
+            </header>
         </div>
     );
 }
