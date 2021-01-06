@@ -16,6 +16,9 @@ import React from "react";
 -   이 코드는 리액트를 불러와서 사용할 수 있게 해 줌
 -   리액트 프로젝트를 만들 때 node_modules라는 디렉토리도 함께 생성됨
 -   Node.js에서는 import가 아닌 require라는 구문으로 패키지를 불러옴
+    <br/>
+    <br/>
+    <br/>
 
 ```javascript
 import logo from "./logo.svg";
@@ -25,6 +28,9 @@ import "./App.css";
 -   SVG 파일과 CSS 파일을 import하는 코드
 -   리액트를 불러오는 코드 하단에 있음
 -   이렇게 파일들을 불러오는 것은 웹팩의 로더(loader)라는 기능이 담당함
+    <br/>
+    <br/>
+    <br/>
 
 ```javascript
 function APP() {
