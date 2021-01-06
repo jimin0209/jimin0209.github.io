@@ -9,17 +9,17 @@ comments: ## 댓글 기능
 
 ### 코드 이해하기
 
-```
-import React from 'react';
+```javascript
+import React from "react";
 ```
 
 -   이 코드는 리액트를 불러와서 사용할 수 있게 해 줌
 -   리액트 프로젝트를 만들 때 node_modules라는 디렉토리도 함께 생성됨
 -   Node.js에서는 import가 아닌 require라는 구문으로 패키지를 불러옴
 
-```
-import logo from './logo.svg';
-import './App.css';
+```javascript
+import logo from "./logo.svg";
+import "./App.css";
 ```
 
 -   SVG 파일과 CSS 파일을 import하는 코드
