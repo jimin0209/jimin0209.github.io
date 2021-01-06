@@ -14,9 +14,9 @@ comments: ## 댓글 기능
 2. 코드 에디터 설치하기
     - 코드 에디터는 VS Code를 사용
     - VS Code 확장 프로그램 설치
-        - ESLint
-        - Reactjs Code Snippets
-        - Prettier-Code formatter
+        - ESLint: 자바스크립트 문법 및 코드 스타일을 검사해 주는 도구
+        - Reactjs Code Snippets: 리액트 컴포넌트 및 라이프사이클 함수를 작성할 때 단축 단어를 사용하여 간편하게 코드를 자동으로 생성해 낼 수 있는 코드 스니펫 모음
+        - Prettier-Code formatter: 코드 스타일을 자동으로 정리해주는 도구
 3. Git 설치하기
     ```
     sudo apt-get install git-all
