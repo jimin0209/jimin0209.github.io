@@ -26,7 +26,8 @@ comments: ## 댓글 기능
 | `<section>` | 어떤 것의 일부분을 나타내는 영역                           |
 | `<figure>`  | 이미지와, 이미지 설명을 담고 있는 영역                     |
 
-![시맨틱태그](./img/시맨틱태그.png '출처: <a>https://www.semrush.com/blog/semantic-html5-guide/</a>')
+<img src ="./img/시맨틱태그.png" width="300px" height="200px"/> 
+출처: <a>https://www.semrush.com/blog/semantic-html5-guide/</a>
 
 ### 시맨틱 태그의 장점은?
 
@@ -62,19 +63,20 @@ SEO를 하는 가장 기본적인 방법은 `<head>` 태그 안에 `<meta>` 태�
 
 위치를 정하는 기준에 대해서 top, right, bottom, left 속성으로 위치를 정할 수 있다.<br>
 
-![position](./img/top.png '출처: codeit')
+<img src ="./img/top.png" width="200px" height="100px"/> 
+출처: codeit <br>
 
 top, right, bottom, left 속성 값이 모두 똑같은 경우 inset 속성을 쓴다.
 
-![position](./img/inset.png '출처: codeit')
+<img src ="./img/inset.png" width="200px" height="100px"/> 
+출처: codeit <br>
 
-출처: codeit
-
-z-index 값은 앞뒤 순서를 정할 때 쓰는 값이다. 순서이기 때문에 단위없이 쓴다.
+z-index 값은 앞뒤 순서를 정할 때 쓰는 값이다. 순서이기 때문에 단위없이 쓴다.<br>
 
 값이 높을 수록 화면에서 앞쪽이고, 같은 값일 경우 코드에서 아래쪽에 있는 요소가 앞쪽에 보인다.
 
-![position](./img/z-index.png '출처: codeit')
+<img src ="./img/z-index.png" width="200px" height="100px"/> 
+출처: codeit <br>
 
 **1. static**
 
