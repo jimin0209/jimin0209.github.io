@@ -34,4 +34,4 @@ CSS에서 Cascading은 여러 CSS 규칙이 적용될 순서에 따라 합치는
 VS code에서 선택자에 마우스를 올려보면 명시도를 확인할 수 있다.<br>
 선택자가 복잡할 수록 명시도 점수가 높다.<br>
 [참고: 명시도 계산하는 도구 사이트]<Br>
-https://specificity.keegan.st/
+<a>https://specificity.keegan.st/
