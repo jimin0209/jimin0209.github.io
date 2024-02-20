@@ -7,7 +7,7 @@ tags: ## 포스트 태그
 comments: ## 댓글 기능
 ---
 
-#### CSS의 Cascading에 대해 설명해 주세요.
+#### - CSS의 Cascading에 대해 설명해 주세요.
 
 ## CSS란?
 
